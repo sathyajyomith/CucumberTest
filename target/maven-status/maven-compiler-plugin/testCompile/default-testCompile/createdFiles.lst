@@ -1,0 +1,5 @@
+pOMbase\BaseTest.class
+pOMpagesBase\Basepage.class
+pomTests\pomAutomation.class
+pOMpageshome\HomePage.class
+pOMpageslogin\Loginpage.class
